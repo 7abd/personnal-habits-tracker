@@ -13,14 +13,6 @@ A simple and clean web app to help you build better habits and stay consistent, 
 - See quick stats and daily summaries
 -  Fully responsive for mobile and desktop
 
----
-
-## 📸 Screenshots
-
-<!-- Replace with actual image links or GIFs later -->
-> *Coming soon...*
-
----
 
 # Technologies Used
 
