@@ -25,10 +25,10 @@ A minimal yet powerful habit tracking app built with React and Vite, designed to
 Feel free to reach out if you have questions or want to connect:
 
 - [LinkedIn](https://www.linkedin.com/in/abdennour-darkaoui-2b2873356/)
-- [WhatsApp](https://wa.me/212708132603)
+  
 - [abd@darkaoui.org](mailto:abd@darkaoui.org)
 
-
+= My Discord:   abdel_07532
 ##  Installation & Setup
 
 git clone https://github.com/7abd/personnal-habits-tracker.git
