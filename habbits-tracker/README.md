@@ -28,7 +28,7 @@ Feel free to reach out if you have questions or want to connect:
   
 - [abd@darkaoui.org](mailto:abd@darkaoui.org)
 
--My Discord:   abdel_07532
+-  My Discord:   abdel_07532
 ##  Installation & Setup
 
 git clone https://github.com/7abd/personnal-habits-tracker.git
